@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  padding: 50px;
+}
+.card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  color: #ff8542;
+}
