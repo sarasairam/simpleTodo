@@ -14,3 +14,20 @@
 .heading {
   color: #ff8542;
 }
+.inputElement {
+  padding: 8px;
+  border: 2px solid #3c6aad;
+  border-radius: 10px;
+}
+.input {
+  display: flex;
+  flex-direction: row;
+}
+.buttonAdd {
+  margin-left: 10px;
+  background-color: #3c6aad;
+  border-radius: 10px;
+  color: #ffffff;
+  border: 0px;
+  padding: 10px;
+}

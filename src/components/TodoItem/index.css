@@ -7,9 +7,19 @@
   margin: 5px;
   cursor: pointer;
   outline: none;
+  margin-top: 20px;
 }
 .item {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+.inputEl {
+  width: 350px;
+  height: 25px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.checked {
+  text-decoration: line-through;
 }
